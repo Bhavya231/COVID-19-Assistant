@@ -1,6 +1,6 @@
 # COVID-19 Assistant
     
-    It is a Assistant which clarifies your queries about COVID-19
+    It is a Assistant which clarifies your queries about COVID-19.
  
 here is the link of COVID-19 Assistant
 
